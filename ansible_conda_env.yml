@@ -1,0 +1,5 @@
+name: ansible
+channels:
+- defaults
+prefix: /home/derek/anaconda3/envs/ansible
+
